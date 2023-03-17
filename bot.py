@@ -26,7 +26,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 
 logger = logging.getLogger(__name__)
 
-TOKEN = "1163712269:AAGsgBzqEySh3zaE6_SapPp7aZbT1Mx9-qk"
+TOKEN = ""
 PORT = int(os.environ.get('PORT', '8443'))
 APPNAME = "https://whythebot.herokuapp.com/"
 # Define a few command handlers. These usually take the two arguments update 
