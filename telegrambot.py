@@ -4,7 +4,7 @@ import json
 class telegrambot():
     
     def __init__(self):
-        self.token = "1163712269:AAGsgBzqEySh3zaE6_SapPp7aZbT1Mx9-qk"
+        self.token = ""
         self.url = "https://api.telegram.org/bot{self.token}"
 
     def get_updates(self,offset=None):
