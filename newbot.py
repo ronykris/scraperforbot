@@ -40,7 +40,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 
 logger = logging.getLogger(__name__)
 
-TOKEN = "1163712269:AAFCz2DxQehxtS3s3yE2gIjGJ6xfWSIMd00"
+TOKEN = ""
 #PORT = int(os.environ.get('PORT', '8443'))
 #APPNAME = "https://whythebot.herokuapp.com/"
 
